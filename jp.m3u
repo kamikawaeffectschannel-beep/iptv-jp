@@ -241,6 +241,7 @@ https://vn.utako.moe/gingach/index.m3u8
 https://vn.utako.moe/tabi/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW) (VN server)
 https://vn.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW) (VN server)
-https://vn.utako.moe/v_paradise/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",KNTV NSFW) (VN server)
+https://vn.utako.moe/kntv/index.m3u8
+
 
